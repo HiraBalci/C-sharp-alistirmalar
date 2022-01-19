@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b1ef523d-f74f-4dbb-a9df-d6f7fa6b3ad8": {
+      "ProjectGuid": "b1ef523d-f74f-4dbb-a9df-d6f7fa6b3ad8",
+      "DisplayName": "prime-number-application",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

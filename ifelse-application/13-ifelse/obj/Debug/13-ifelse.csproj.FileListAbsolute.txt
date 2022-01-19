@@ -1,0 +1,8 @@
+C:\Users\SOLITERA-I\Desktop\c sharp\13-ifelse\13-ifelse\bin\Debug\13-ifelse.exe.config
+C:\Users\SOLITERA-I\Desktop\c sharp\13-ifelse\13-ifelse\bin\Debug\13-ifelse.exe
+C:\Users\SOLITERA-I\Desktop\c sharp\13-ifelse\13-ifelse\bin\Debug\13-ifelse.pdb
+C:\Users\SOLITERA-I\Desktop\c sharp\13-ifelse\13-ifelse\obj\Debug\13-ifelse.csproj.SuggestedBindingRedirects.cache
+C:\Users\SOLITERA-I\Desktop\c sharp\13-ifelse\13-ifelse\obj\Debug\13-ifelse.csproj.CoreCompileInputs.cache
+C:\Users\SOLITERA-I\Desktop\c sharp\13-ifelse\13-ifelse\obj\Debug\13-ifelse.exe
+C:\Users\SOLITERA-I\Desktop\c sharp\13-ifelse\13-ifelse\obj\Debug\13-ifelse.pdb
+C:\Users\SOLITERA-I\Desktop\c sharp\13-ifelse\13-ifelse\obj\Debug\13-ifelse.csproj.AssemblyReference.cache

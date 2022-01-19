@@ -1,0 +1,8 @@
+C:\Users\SOLITERA-I\Desktop\c sharp\prime-number-application\prime-number-application\bin\Debug\prime-number-application.exe.config
+C:\Users\SOLITERA-I\Desktop\c sharp\prime-number-application\prime-number-application\bin\Debug\prime-number-application.exe
+C:\Users\SOLITERA-I\Desktop\c sharp\prime-number-application\prime-number-application\bin\Debug\prime-number-application.pdb
+C:\Users\SOLITERA-I\Desktop\c sharp\prime-number-application\prime-number-application\obj\Debug\prime-number-application.csproj.AssemblyReference.cache
+C:\Users\SOLITERA-I\Desktop\c sharp\prime-number-application\prime-number-application\obj\Debug\prime-number-application.csproj.SuggestedBindingRedirects.cache
+C:\Users\SOLITERA-I\Desktop\c sharp\prime-number-application\prime-number-application\obj\Debug\prime-number-application.csproj.CoreCompileInputs.cache
+C:\Users\SOLITERA-I\Desktop\c sharp\prime-number-application\prime-number-application\obj\Debug\prime-number-application.exe
+C:\Users\SOLITERA-I\Desktop\c sharp\prime-number-application\prime-number-application\obj\Debug\prime-number-application.pdb
